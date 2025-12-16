@@ -1,3 +1,4 @@
+Note - Unzip the data folder in the root directory, it should be in the same folder as income_prediction_segmentation.ipynb/py and generate_dataset.py files.
 # Income Prediction and Customer Segmentation
 
 This repository contains code to train and evaluate:
